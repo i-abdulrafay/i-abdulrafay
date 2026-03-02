@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Abdul Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-abdulrafay&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-abdulrafay&theme=default)
 <!--
 **i-abdulrafay/i-abdulrafay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
